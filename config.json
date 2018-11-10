@@ -1,0 +1,11 @@
+{
+	"packageUrl": "https://github.com/orange1423/ncmDumpGUI/raw/master/LatestVersion.zip",
+	"packageFileName": "LatestVersion.zip",
+	"packageConfigName": "config.json",
+	"forceUpdate": "true",
+	"checkEvery": "1",
+	"intervalType": "minute",
+	"output": ".\\",
+	"processStart": "ncmDumpGUI.exe",
+	"version": "1.0.0.1"
+}
