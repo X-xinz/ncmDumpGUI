@@ -29,7 +29,7 @@ ncmDumpGUI：解压后运行ncmDumpGUI.exe，拖动.ncm格式文件到列表，�
 
 ncmDumpLite：解压后运行ncmDumpLite.exe，拖动.ncm格式文件到窗口，将自动输出文件到原文件所在目录。
 
-##这是我的用后结论
+##这是我的用后结论##
 使用环境：win10家庭版
 结果：ncmDumpGUI.v1.2.3.1可以运行
       ncmDumpLite.v.1.0.0.1运行不成功
